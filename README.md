@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anupamd7
+- 👋 Hi, I’m Anupam
 - 👀 I’m interested in RS&GIS/Geomatics Engineering/R&D/Research and Inovation.
 - 🌱 I’m currently learning R&D.
 - 💞️ I’m looking to collaborate on Scripting.
