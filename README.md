@@ -1,5 +1,16 @@
 - 👋 Hi, I’m Anupam
 - 👀 I’m interested in RS&GIS/Geomatics Engineering/R&D/Research and Inovation.
+- github.com/your-username
+│
+├── README.md                  ← Profile introduction
+├── geoai-groundwater-analysis
+├── gee-drought-monitoring
+├── maps-poi-quality-check
+├── rag-geospatial-assistant
+├── satellite-image-classification
+├── gis-python-automation
+├── sql-postgis-spatial-analysis
+└── llm-geospatial-chatbot
 - 🌱 I’m currently learning R&D.
 - 💞️ I’m looking to collaborate on Scripting.
 - 📫 How to reach me @anupamd7
